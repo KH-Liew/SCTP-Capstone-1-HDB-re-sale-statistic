@@ -53,4 +53,4 @@ Such changes and announcements will have an impact on the valuation of HDB re-sa
 
 
 
-[**_Link to my Linkedin Profile_**](linkedin.com/in/kok-hong-liew-54338b189)
+[**_Link to my Linkedin Profile_**](www.linkedin.com/in/kok-hong-liew-54338b189)
