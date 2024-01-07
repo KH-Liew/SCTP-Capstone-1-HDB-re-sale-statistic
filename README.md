@@ -32,17 +32,22 @@ An analysis of Singapore HDB re-sale flats, dataset from year 2012 to 2019. The 
 1. Factors driving the increase valuation of re-sale flats
    - Units' storey or floor level (most significant increase on units at 
      higher floors)
-   - Market Trend on average higher increase in re-sale price in BUkit TImah, Bishan district
+   - Market Trend on average higher increase in re-sale price in Bukit TImah, Bishan district
    - Executive & 5 rooms unit type have on average higher increase in re-sale value
 
 2. Factors driving the decrease valuation or re-sale flats
    - Smaller units / floor area (2 rooms, 3 rooms flat)
    - Sum of remaining lease term is 47 or less (based on max 99 Years lease of HDB Units)
   
-3. Sum of resale_price trended down, resulting in a 51.65% decrease between 2012 and 2019.﻿﻿ ﻿﻿
-4. ﻿Sum of resale_price started trending up on 2015, rising by 23.12% ($1,786,912,634.99) in 3 years.﻿﻿ ﻿﻿
-﻿﻿5. Sum of resale_price jumped from $7,729,135,940.52 to $9,516,048,575.51 during its steepest incline between 2015 and 2018.﻿﻿ ﻿
-6. 4 ROOM accounted for 40.24% of Count of block.﻿﻿ ﻿
+3. Year 2018 was recorded with the highest total sum of sales on re-sale flats.﻿﻿ ﻿﻿
+
+4. Jurong West and Woodlands district recorded the highest count of re-sale transactions.
+
+5. ﻿﻿Sum of re-sale price started trending up on 2015, rising by 23.12% ($1,786,912,634.99) in 3 years.﻿﻿ ﻿﻿
+
+6. 4 ROOM units accounted for 40.24% of Count of block, the most transacted re-sale flats type compared to smaller units. 
+
+7. 1176 transactions were recorded under ‘central area’ which are not name by district.
 
 ### _Future Scope_
 The HDB market trend is constantly evolving, based on the most recent National Day Rally speech in 2023 a new classification of flats were introduction where towns will no longer be demarcated as mature and non-matured.
